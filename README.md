@@ -1,1 +1,1 @@
-Just my nvim config with some plugins, configure jdtls and debugger for comfort(as it can be in nvim) development in java.
+Just my Neovim config with some plugins, configuring jdtls and debugger for comfortable (as it can be in Neovim) Java development.
